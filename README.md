@@ -1,4 +1,4 @@
-# Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting
+# CVE-2024-41301 - Bookea-tu-Mesa-is-vulnerable-to-Stored-Cross-Site-Scripting
 Bookea-tu-Mesa is susceptible to a Stored Cross-Site Scripting (XSS) vulnerability. This flaw allows attackers to inject malicious scripts that execute within the context of a user's session.
 
 Steps to Reproduce:
@@ -23,3 +23,6 @@ Patrick Dean Ramos<br>
 Nathu Nandwani<br>
 Junnair Manla<br>
 Kevin Rosales<br>
+Steve Nyan<br>
+Shanavas Shakeer<br>
+Lani Lambert<br>
